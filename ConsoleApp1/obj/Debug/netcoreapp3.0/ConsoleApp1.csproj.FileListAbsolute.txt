@@ -1,0 +1,11 @@
+E:\unity\c#\文字rpg\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+E:\unity\c#\文字rpg\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+E:\unity\c#\文字rpg\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+E:\unity\c#\文字rpg\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+E:\unity\c#\文字rpg\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+E:\unity\c#\文字rpg\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+E:\unity\c#\文字rpg\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+E:\unity\c#\文字rpg\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\unity\c#\文字rpg\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+E:\unity\c#\文字rpg\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+E:\unity\c#\文字rpg\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
